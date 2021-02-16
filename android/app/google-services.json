@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019614531613",
+    "project_id": "test-88606",
+    "storage_bucket": "test-88606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019614531613:android:6649f4d76ca8d924a4f6f4",
+        "android_client_info": {
+          "package_name": "com.altron.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019614531613-1sbo93h1h0k6u3s0t3bl879s9hldpapq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF6CfOiOUdvf3dfqPRNxOpaesKE4K5nlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019614531613-1sbo93h1h0k6u3s0t3bl879s9hldpapq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
