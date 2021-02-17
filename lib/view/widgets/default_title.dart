@@ -18,7 +18,7 @@ class DefaultTitle extends StatelessWidget {
         right: deviceData.screenWidth * 0.08,
       ),
       child: Text(
-        "Altron Chat \nwith friends",
+        "Altrone Chat",
         style: kTitleTextStyle.copyWith(
           fontSize: deviceData.screenHeight * 0.028,
         ),

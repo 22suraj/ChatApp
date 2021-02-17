@@ -34,7 +34,7 @@ class FriendsHeader extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Text(
-                "Let's Chat \n with friends",
+                "Altrone Chat",
                 style: kTitleTextStyle.copyWith(
                   fontSize: deviceData.screenHeight * 0.028,
                 ),
