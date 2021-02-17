@@ -2,7 +2,6 @@ import 'package:chat/view/utils/constants.dart';
 import 'package:chat/view/utils/device_config.dart';
 import 'package:flutter/material.dart';
 
-
 class DefaultTitle extends StatelessWidget {
   const DefaultTitle({
     Key key,
@@ -19,7 +18,7 @@ class DefaultTitle extends StatelessWidget {
         right: deviceData.screenWidth * 0.08,
       ),
       child: Text(
-        "Let's Chat \n with friends",
+        "Altron Chat \nwith friends",
         style: kTitleTextStyle.copyWith(
           fontSize: deviceData.screenHeight * 0.028,
         ),

@@ -20,11 +20,11 @@ class MessagesHeader extends StatelessWidget {
       padding: EdgeInsets.only(
         top: deviceData.screenHeight * 0.06,
         bottom: deviceData.screenHeight * 0.005,
-        left: deviceData.screenWidth * 0.05,
+        left: deviceData.screenWidth * 0.03,
         right: deviceData.screenWidth * 0.05,
       ),
       child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        mainAxisAlignment: MainAxisAlignment.start,
         children: <Widget>[
           BackIcon(),
           Row(
@@ -43,6 +43,7 @@ class MessagesHeader extends StatelessWidget {
               ),
             ],
           ),
+          Spacer(),
           PopUpMenu(),
         ],
       ),
